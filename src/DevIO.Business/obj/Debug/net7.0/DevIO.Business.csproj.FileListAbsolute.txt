@@ -1,0 +1,36 @@
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll

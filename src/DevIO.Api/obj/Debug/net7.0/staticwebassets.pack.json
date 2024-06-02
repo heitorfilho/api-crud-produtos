@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\Web-FullStack\\backend\\MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\65b6edf5-e268-4612-9693-b8c2cf7a05be_CERRADO.jpg",
+      "PackagePath": "staticwebassets\\65b6edf5-e268-4612-9693-b8c2cf7a05be_CERRADO.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DevIO.Api.props",
+      "PackagePath": "build\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DevIO.Api.props",
+      "PackagePath": "buildMultiTargeting\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DevIO.Api.props",
+      "PackagePath": "buildTransitive\\DevIO.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

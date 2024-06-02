@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6X0ctSTgdwvXewCpTteHb+5AbGsFCMZqdo5b3meu18vr4pU5Ihz+PsKIXK9ywyhMfEvabGHpcSXBFwYbG83oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Documents\\Cursos\\Projetos GitHub\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

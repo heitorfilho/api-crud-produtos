@@ -1,0 +1,51 @@
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.Up2Date
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.runtimeconfig.json
+C:\Users\heitor.filho\Documents\labs\2-Dominando Asp.NET\AppMvcCompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.genruntimeconfig.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.runtimeconfig.json
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.Up2Date
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.genruntimeconfig.cache
+C:\Users\heitor.filho\Documents\labs\Backend\3-REST com Asp.NET WebAPI\MinhaAPICompleta1\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.runtimeconfig.json
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.Up2Date
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Web-FullStack\backend\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll
